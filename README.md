@@ -6,9 +6,7 @@ An Angular component for [fullcalendar](https://fullcalendar.io/).
 ## Installation
 ```
 npm install @types/jquery --save-dev # For Angular 6
-npm install ap-angular-fullcalendar --save # For Angular 6
-npm install ap-angular2-fullcalendar@1.3.7 --save -E # For Angular 5
-npm install ap-angular2-fullcalendar@1.3.1 --save -E # For Angular 4
+npm install github:alexdiesel/ap-angular-fullcalendar --save # For Angular 6
 ```
 ## Usage
 #### Import the calendar module

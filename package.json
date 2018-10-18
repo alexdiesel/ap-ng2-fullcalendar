@@ -1,7 +1,7 @@
 {
   "name": "ap-angular-fullcalendar",
   "version": "1.6.4",
-  "description": "Angular component for FullCalendar",
+  "description": "Angular 6 component for FullCalendar 3.4.0",
   "main": "index.js",
   "scripts": {
     "build": "rm -rf dist/ && ngc build -p ./tsconfig.json",
@@ -28,7 +28,7 @@
     "@angular/core": "^6.x.x",
     "@angular/forms": "^6.x.x",
     "@types/fullcalendar": "3.8.0",
-    "fullcalendar": "3.9.0"
+    "fullcalendar": "3.4.0"
   },
   "devDependencies": {
     "@angular/compiler": "^6.x.x",
